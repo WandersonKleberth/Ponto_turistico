@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,500;0,600;1,300;1,500;1,600&family=Roboto+Condensed:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+
+body {
+    background-color: darkseagreen;
+}
+
+.nav-bar {
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.link-nav {
+    background-color: burlywood;
+    list-style: none;
+
+}
+
+.btn-H {
+    background-color: rgb(0, 137, 155);
+    border: none;
+    outline: none;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 4px;
+    box-shadow: 10px 1px 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+.marcozero0 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 500px;
+    margin: 50px;
+}
+
+.imgmarco {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    border: 10px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+/*PAGE-02*/
+
+.nav-barp2 {
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.link-nav2 {
+    background-color: burlywood;
+    list-style: none;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-P {
+    background-color: rgb(0, 137, 155);
+    border: none;
+    outline: none;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 4px;
+    box-shadow: 10px 1px 10px;
+}
+
+h1.p02 {
+    margin: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin: 20px;
+    text-decoration: underline;
+}
+
+.IRB1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.IRB2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 500px;
+    margin: 50px;
+}
+
+.pacodofrev0 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 500px;
+    margin: 50px;
+}
+
+.pacodofrevo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
