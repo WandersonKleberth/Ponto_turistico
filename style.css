@@ -132,6 +132,11 @@ h2 {
     justify-content: center;
 }
 
+/*Roda-pe*/
 
-
+footer {
+    background-color: chocolate;
+    margin: 20px;
+    padding: 30px;
+}
 
